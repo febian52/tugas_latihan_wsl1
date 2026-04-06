@@ -1,0 +1,7 @@
+[
+  {"id": "SN-001", "nama": "Sensor LDR Area A", "nilai": 850, "status": "Normal"},
+  {"id": "SN-002", "nama": "Sensor Suhu Mesin", "nilai": 95, "status": "Warning"},
+  {"id": "SN-003", "nama": "Sensor Kelembaban", "nilai": 60, "status": "Normal"},
+  {"id": "SN-004", "nama": "Tekanan Pipa Gas", "nilai": 120, "status": "Critical"},
+  {"id": "SN-005", "nama": "Getaran Motor CNC", "nilai": 45, "status": "Normal"}
+]

@@ -1,0 +1,8 @@
+{
+  "status": "success",
+  "message": "Halo, ini server Node.js versi Pro!",
+  "data": {
+    "sensor_id": "LDR-01",
+    "value": 850
+  }
+}
